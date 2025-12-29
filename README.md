@@ -1,7 +1,7 @@
 # human-action-classify-system
-# 🤸 高级人体姿态识别系统
+# 人体姿态识别系统
 
-> 基于 EfficientNetV2 的高精度人体姿态识别，准确率 95%+
+> 基于 EfficientNetV2 的人体姿态识别，准确率 95%+
 
 ## ✨ 特性
 
@@ -10,7 +10,6 @@
 - ✅ **现代UI**: Gradio 美观界面 + OpenCV 实时识别
 - ✅ **15种动作**: 支持坐、站、跳舞等15种常见动作
 - ✅ **双模式**: 图像上传 + 实时摄像头
-- ✅ **易使用**: 一键启动，无需编程
 
 ## 🚀 快速开始
 
@@ -89,10 +88,7 @@ action classify/
 │   ├── QUICKSTART.md              # 快速开始
 │   ├── INSTALL.md                 # 安装指南
 │   ├── QUICK_REFERENCE.md         # 快速参考
-│   ├── README_ADVANCED.md         # 详细文档
-│   ├── PROJECT_SUMMARY.md         # 项目总结
-│   └── CHANGES.md                 # 改进说明
-│
+│   └── README_ADVANCED.md         # 详细文档
 └── ⚙️ 配置/
     └── requirements.txt           # 依赖包
 ```
@@ -137,9 +133,6 @@ action classify/
 | `INSTALL.md` | 详细安装指南 |
 | `QUICK_REFERENCE.md` | 快速参考卡 |
 | `README_ADVANCED.md` | 技术细节 |
-| `PROJECT_SUMMARY.md` | 项目总结 |
-| `CHANGES.md` | 改进说明 |
-
 ## 🆕 新系统改进
 
 | 特性 | 旧系统 | 新系统 |
