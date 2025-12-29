@@ -1,6 +1,6 @@
-# 🤸 Advanced Human Pose Recognition System
+#  Advanced Human Pose Recognition System
 
-基于EfficientNetV2预训练模型的高精度人体姿态识别系统，配备现代化Gradio UI界面。
+基于EfficientNetV2预训练模型的人体姿态识别系统，配备现代化Gradio UI界面。
 
 ## ✨ 特性
 
